@@ -8,4 +8,4 @@
 - Bcrypt library for password hashing and salt
 
 NAVIGATION FLOW
-![GitHub Logo](/src/img/NavFlow.png)
+![GitHub Logo](track-server/src/img/NavFlow.png)
